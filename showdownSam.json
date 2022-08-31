@@ -4,7 +4,7 @@
 	"app_open":        			"",
     "banner_ad_unit_id":  		"",
 	"interstitial_full_screen": "",	
-	"DownloadShow":         			"no",
+	"DownloadShow":         			"yes",
 	"apiCall":         			"",
 	"common_1":        			"",
 	"common_path":         		""
